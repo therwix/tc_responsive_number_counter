@@ -6,7 +6,7 @@ The animation will start only when the element is visible on the screen.
 ![demo](https://github.com/therwix/tc_responsive_number_counter/assets/61868531/e2b42f79-da01-4ca3-83c2-0a5761ab4099)
 
 ## Installation
-Import the file located at plug-in/template_component_plugin_apex_therwix_responsive_number_counter.sql  
+Import the file located at plug-in/template_component_plugin_apex_therwix_responsive_number_counting.sql  
 
 ## Example SQL Query
 ```sql
