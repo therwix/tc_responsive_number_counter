@@ -1,4 +1,4 @@
-# Template Component Plug-In - Responsive Number Counter
+# Responsive Number Counter (Template Component Plug-In)
 
 This template component shows one (or multiple) animated counters that count up from zero to the final number.  
 The animation will start only when the element is visible on the screen.  
