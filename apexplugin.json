@@ -28,7 +28,7 @@
         "plugin": {
           "internalName": "",
           "type": "template component",
-          "demo": "",
+          "demo": "https://apex.oracle.com/pls/apex/r/herwix/template-component/home",
           "previewImage": "https://github.com/therwix/tc_responsive_number_counter/blob/main/assets/demo.gif?raw=true"
         }
       }
