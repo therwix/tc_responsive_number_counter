@@ -1,7 +1,7 @@
 {
     "name": "Responsive Number Counter",
     "version": "1.0",
-    "description": "Display an empty state",
+    "description": "This template component shows one (or multiple) animated counters that count up from zero to the final number. The animation will start only when the element is visible on the screen.",
     "keywords": ["animated counter"],
     "homepage": "https://github.com/therwix/tc_responsive_number_counter",
     "bugs": {
