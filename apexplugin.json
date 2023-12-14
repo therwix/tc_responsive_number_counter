@@ -22,11 +22,11 @@
       "url": "https://github.com/therwix/tc_responsive_number_counter.git"
     },
     "oracle": {
-      "versions": ["23.1.0", "23.2.0"],
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
       "apex": {
-        "versions": ["23.1.0"],
+        "versions": ["23.2.0", "23.1.0"],
         "plugin": {
-          "internalName": "",
+          "internalName": "DE.THERWIX.RESPONSIVE_NUMBER_COUNTER",
           "type": "template component",
           "demo": "https://apex.oracle.com/pls/apex/r/herwix/template-component/home",
           "previewImage": "https://github.com/therwix/tc_responsive_number_counter/blob/main/assets/demo.gif?raw=true"
