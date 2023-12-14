@@ -1,0 +1,25 @@
+.tc_icon {
+  color: teal;
+}
+
+.tc_div {
+  display: flex;    
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tc_row {
+  display: block;  
+}
+
+.tc_col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-right: 15px;
+  padding-left: 15px;
+}
