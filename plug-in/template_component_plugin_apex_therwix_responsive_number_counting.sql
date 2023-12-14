@@ -55,7 +55,7 @@ wwv_flow_imp_shared.create_plugin(
  p_id=>wwv_flow_imp.id(26826776401374968)
 ,p_plugin_type=>'TEMPLATE COMPONENT'
 ,p_theme_id=>nvl(wwv_flow_application_install.get_theme_id, '')
-,p_name=>'RESPONSIVE_NUMBER_COUNTING'
+,p_name=>'DE.THERWIX.RESPONSIVE_NUMBER_COUNTER'
 ,p_display_name=>'Responsive Number Counting'
 ,p_supported_component_types=>'PARTIAL:REPORT'
 ,p_javascript_file_urls=>'#PLUGIN_FILES#responsive_counter#MIN#.js'
