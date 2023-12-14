@@ -1,0 +1,36 @@
+{
+    "name": "Responsive Number Counter",
+    "version": "1.0",
+    "description": "Display an empty state",
+    "keywords": ["animated counter"],
+    "homepage": "https://github.com/therwix/tc_responsive_number_counter",
+    "bugs": {
+      "url": "https://github.com/therwix/tc_responsive_number_counter/issues",
+      "email": "timo.herwix@mt-ag.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Timo Herwix",
+      "email": "timo.herwix@mt-ag.com",
+      "url": "https://tm-apex.hashnode.dev//",
+      "twitter": "therwix",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/therwix/tc_responsive_number_counter.git"
+    },
+    "oracle": {
+      "versions": ["23.1.0", "23.2.0"],
+      "apex": {
+        "versions": ["23.1.0"],
+        "plugin": {
+          "internalName": "",
+          "type": "template component",
+          "demo": "",
+          "previewImage": "https://github.com/therwix/tc_responsive_number_counter/blob/main/assets/demo.gif?raw=true"
+        }
+      }
+    }
+  }
