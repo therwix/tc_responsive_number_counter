@@ -3,12 +3,20 @@
 }
 
 .tc_div {
-  display: flex;    
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-content: center;
-  align-items: center;
-  justify-content: space-between;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 1140px) {
+    .tc_div {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1139px) {
+    .tc_div {
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 .tc_row {
