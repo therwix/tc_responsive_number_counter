@@ -13,25 +13,25 @@ Import the file located at plug-in/template_component_plugin_apex_therwix_respon
 Select 1 as sort,
        50 as "Value",
        'Happy Customers' as "Text",
-       'fa fa-user' as "Icon"
+       'fa-user' as "Icon"
   from dual    
 union
 Select 2 as sort,
        10000 as "Value",
        'Lines of code' as "Text",
-       'fa fa-code' as "Icon"
+       'fa-code' as "Icon"
   from dual
 union       
 Select 3 as sort,
        20 as "Value",
        'Projects' as "Text",
-       'fa fa-lock' as "Icon"
+       'fa-lock' as "Icon"
   from dual    
 union
 Select 4 as sort,
        50 as "Value",
        'Developers' as "Text",
-       'fa fa-briefcase' as "Icon"
+       'fa-briefcase' as "Icon"
   from dual
  order by 1;
 ```
@@ -42,6 +42,10 @@ Select 4 as sort,
 * `TEXT` shows the title for the counter
     
 * `VALUE` displays the end number for the counter
+
+* `DURATION` change how fast the animation should be (default 5000)
+
+* `EASING` for ease out the number animation will start fast and will slow down towards the end (default linear)
 
 ## Demo
 You can finde a demo application [here](https://apex.oracle.com/pls/apex/r/herwix/template-component/home).
